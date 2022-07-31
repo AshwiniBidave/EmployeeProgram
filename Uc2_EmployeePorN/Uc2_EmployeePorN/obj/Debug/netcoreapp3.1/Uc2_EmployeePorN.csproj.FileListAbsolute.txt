@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\uc1\Uc2_EmployeePorN\Uc2_EmployeePorN\obj\Debug\netcoreapp3.1\Uc2_EmployeePorN.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\uc1\Uc2_EmployeePorN\Uc2_EmployeePorN\obj\Debug\netcoreapp3.1\Uc2_EmployeePorN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\uc1\Uc2_EmployeePorN\Uc2_EmployeePorN\obj\Debug\netcoreapp3.1\Uc2_EmployeePorN.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\uc1\Uc2_EmployeePorN\Uc2_EmployeePorN\obj\Debug\netcoreapp3.1\Uc2_EmployeePorN.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\uc1\Uc2_EmployeePorN\Uc2_EmployeePorN\obj\Debug\netcoreapp3.1\Uc2_EmployeePorN.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\uc1\Uc2_EmployeePorN\Uc2_EmployeePorN\bin\Debug\netcoreapp3.1\Uc2_EmployeePorN.exe
+C:\Users\Administrator\Desktop\uc1\Uc2_EmployeePorN\Uc2_EmployeePorN\bin\Debug\netcoreapp3.1\Uc2_EmployeePorN.deps.json
+C:\Users\Administrator\Desktop\uc1\Uc2_EmployeePorN\Uc2_EmployeePorN\bin\Debug\netcoreapp3.1\Uc2_EmployeePorN.runtimeconfig.json
+C:\Users\Administrator\Desktop\uc1\Uc2_EmployeePorN\Uc2_EmployeePorN\bin\Debug\netcoreapp3.1\Uc2_EmployeePorN.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\uc1\Uc2_EmployeePorN\Uc2_EmployeePorN\bin\Debug\netcoreapp3.1\Uc2_EmployeePorN.dll
+C:\Users\Administrator\Desktop\uc1\Uc2_EmployeePorN\Uc2_EmployeePorN\bin\Debug\netcoreapp3.1\Uc2_EmployeePorN.pdb
+C:\Users\Administrator\Desktop\uc1\Uc2_EmployeePorN\Uc2_EmployeePorN\obj\Debug\netcoreapp3.1\Uc2_EmployeePorN.dll
+C:\Users\Administrator\Desktop\uc1\Uc2_EmployeePorN\Uc2_EmployeePorN\obj\Debug\netcoreapp3.1\Uc2_EmployeePorN.pdb
+C:\Users\Administrator\Desktop\uc1\Uc2_EmployeePorN\Uc2_EmployeePorN\obj\Debug\netcoreapp3.1\Uc2_EmployeePorN.genruntimeconfig.cache
